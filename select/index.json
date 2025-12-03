@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "CHEERS",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-03T11:41:13.364811Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheers Darlin'",
+      "artist": "Damien Rice",
+      "has_synced": true,
+      "path": "select/01_Cheers_Darlin'_Damien_Rice.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cheers Then",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/02_Cheers_Then_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cheers",
+      "artist": "Skylar Grey",
+      "has_synced": true,
+      "path": "select/03_Cheers_Skylar_Grey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cheers (Drink To That)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/04_Cheers_(Drink_To_That)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cheers",
+      "artist": "FOUR GET ME A NOTS",
+      "has_synced": false,
+      "path": "select/05_Cheers_FOUR_GET_ME_A_NOTS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Theme from \"Cheers\"",
+      "artist": "Titus Andronicus",
+      "has_synced": true,
+      "path": "select/06_Theme_from__Cheers_Titus_Andronicus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "3 Cheers for You",
+      "artist": "Marky Ramone & The Intruders",
+      "has_synced": true,
+      "path": "select/07_3_Cheers_for_You_Marky_Ramone_&_The_Intruders.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cheers",
+      "artist": "Louise Burns",
+      "has_synced": false,
+      "path": "select/08_Cheers_Louise_Burns.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cheers",
+      "artist": "Faye Webster",
+      "has_synced": true,
+      "path": "select/09_Cheers_Faye_Webster.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(Theme from ''Cheers'') Where Everybody Knows Your Name",
+      "artist": "Gary Portnoy",
+      "has_synced": false,
+      "path": "select/10_(Theme_from_''Cheers'')_Where_Everybody_Knows_Your_Name_Gary_Portnoy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(Theme from ''Cheers'') Where Everybody Knows Your Name",
+      "artist": "Gary Portnoy",
+      "has_synced": true,
+      "path": "select/11_(Theme_from_''Cheers'')_Where_Everybody_Knows_Your_Name_Gary_Portnoy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "cheers (with Wiz Khalifa)",
+      "artist": "blackbear feat. Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/12_cheers_(with_Wiz_Khalifa)_blackbear_feat._Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "cheers (with Wiz Khalifa)",
+      "artist": "blackbear",
+      "has_synced": true,
+      "path": "select/13_cheers_(with_Wiz_Khalifa)_blackbear.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cheers (Drink To That) (Album Version)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/14_Cheers_(Drink_To_That)_(Album_Version)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "CheerS",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/15_CheerS_ClariS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHEERS",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_CHEERS_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
